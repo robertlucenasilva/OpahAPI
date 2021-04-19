@@ -1,0 +1,8 @@
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Domain\obj\Debug\netcoreapp3.1\Opah_API.Domain.AssemblyInfoInputs.cache
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Domain\obj\Debug\netcoreapp3.1\Opah_API.Domain.AssemblyInfo.cs
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Domain\bin\Debug\netcoreapp3.1\Opah_API.Domain.deps.json
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Domain\bin\Debug\netcoreapp3.1\Opah_API.Domain.dll
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Domain\bin\Debug\netcoreapp3.1\Opah_API.Domain.pdb
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Domain\obj\Debug\netcoreapp3.1\Opah_API.Domain.dll
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Domain\obj\Debug\netcoreapp3.1\Opah_API.Domain.pdb
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Domain\obj\Debug\netcoreapp3.1\Opah_API.Domain.csprojAssemblyReference.cache

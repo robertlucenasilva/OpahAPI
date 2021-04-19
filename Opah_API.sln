@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opah_API", "Opah_API\Opah_API.csproj", "{CF3ECB97-F4B8-43C0-8AFD-1FCEDC3AFB56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opah_API.Infrastructure", "Opah_API.Infrastructure\Opah_API.Infrastructure.csproj", "{F5B67254-C56B-4087-A7DE-8CA8FBC66F54}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opah_API.Domain", "Opah_API.Domain\Opah_API.Domain.csproj", "{498AC563-ACEF-404B-945B-28BAD13F4EBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opah_API.Test", "Opah_API.Test\Opah_API.Test.csproj", "{1BD23C9C-153B-4660-9413-70183AE48A7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF3ECB97-F4B8-43C0-8AFD-1FCEDC3AFB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3ECB97-F4B8-43C0-8AFD-1FCEDC3AFB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3ECB97-F4B8-43C0-8AFD-1FCEDC3AFB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3ECB97-F4B8-43C0-8AFD-1FCEDC3AFB56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B67254-C56B-4087-A7DE-8CA8FBC66F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B67254-C56B-4087-A7DE-8CA8FBC66F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B67254-C56B-4087-A7DE-8CA8FBC66F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B67254-C56B-4087-A7DE-8CA8FBC66F54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498AC563-ACEF-404B-945B-28BAD13F4EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498AC563-ACEF-404B-945B-28BAD13F4EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498AC563-ACEF-404B-945B-28BAD13F4EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498AC563-ACEF-404B-945B-28BAD13F4EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD23C9C-153B-4660-9413-70183AE48A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD23C9C-153B-4660-9413-70183AE48A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD23C9C-153B-4660-9413-70183AE48A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD23C9C-153B-4660-9413-70183AE48A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C1EBE57-78D3-44A2-BB23-941224DE9384}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Infrastructure\bin\Debug\netcoreapp3.1\Opah_API.Infrastructure.deps.json
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Infrastructure\bin\Debug\netcoreapp3.1\Opah_API.Infrastructure.runtimeconfig.json
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Infrastructure\bin\Debug\netcoreapp3.1\Opah_API.Infrastructure.runtimeconfig.dev.json
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Infrastructure\bin\Debug\netcoreapp3.1\Opah_API.Infrastructure.dll
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Infrastructure\bin\Debug\netcoreapp3.1\Opah_API.Infrastructure.pdb
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Infrastructure\bin\Debug\netcoreapp3.1\Opah_API.Domain.dll
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Infrastructure\bin\Debug\netcoreapp3.1\Opah_API.Domain.pdb
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Infrastructure\obj\Debug\netcoreapp3.1\Opah_API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Infrastructure\obj\Debug\netcoreapp3.1\Opah_API.Infrastructure.AssemblyInfo.cs
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Infrastructure\obj\Debug\netcoreapp3.1\Opah_API.Infrastructure.csproj.CopyComplete
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Infrastructure\obj\Debug\netcoreapp3.1\Opah_API.Infrastructure.dll
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Infrastructure\obj\Debug\netcoreapp3.1\Opah_API.Infrastructure.pdb
+C:\Users\robert.silva\source\repos\Opah_API\Opah_API.Infrastructure\obj\Debug\netcoreapp3.1\Opah_API.Infrastructure.csprojAssemblyReference.cache
